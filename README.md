@@ -1,8 +1,5 @@
-# javascript
-This project is javascript lecture study.
+# Web
 
-In this project, You can find all about javascript.
+In this project, You can learn basic concept of Web technology.
 
-First of all, I would like to make messenger program.
-
-Then, I will explain javascript indetail.
+Furthermore, it will guide you a right way of thinking in Web.
