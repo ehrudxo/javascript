@@ -1,4 +1,4 @@
-package com.sds;
+package com.some;
 
 import java.io.BufferedReader;
 import java.io.IOException;
