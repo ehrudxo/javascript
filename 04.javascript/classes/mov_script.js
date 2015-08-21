@@ -2,7 +2,7 @@ var scripts = exports.scripts = {
   action_sign : "//-----------액션----------",
   cut_sign : "-----------컷!----------//",
   ok_sign :  "---삼겹살먹으러 갑시다---//",
-  question : "김광규:느그 아부지 뭐하시노?",
+  question : "김광규:아부지 뭐하시노?",
   answer : "유오성:건달인데예",
   explosion : "김광규:허이XX가",
 }

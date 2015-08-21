@@ -5,7 +5,7 @@ var action = mov_script.action;
 
 console.log("\n","3.1 function prototype");
 !action();
-var ft3 = exports.ft2 = function(){this.name="naruto";}
+var ft3 = exports.ft3 = function(){this.name="naruto";}
 ft3.prototype.answer =scripts.answer
 assert(ft3.prototype.answer);
 // assert(ft3.prototype.answer);

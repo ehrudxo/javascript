@@ -7,6 +7,7 @@ console.log("1.1 function");
 !action();
 var ft1 = exports.function1 = function ft1(){
   var answer = scripts.answer;
+  debugger;
   var name="james";
 }
 assert(ft1.answer);
